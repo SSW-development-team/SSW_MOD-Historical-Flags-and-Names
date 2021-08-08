@@ -1,0 +1,45 @@
+﻿l_english:
+##バニラ
+#アジア
+#ヨーロッパ
+ HOL_kingdom:0 "ネーデルラント王国"
+ HOL_kingdom_DEF:0 "ネーデルラント王国"
+ HOL_republic:0 "ネーデルラント共和国"
+ HOL_republic_DEF:0 "ネーデルラント共和国"
+ HOL_republic_progressive_communism:0 "ネーデルラント社会主義共和国"
+ HOL_republic_progressive_communism_DEF:0 "ネーデルラント社会主義共和国"
+ HOL_republic_classical_communism:0 "ネーデルラント社会主義共和国"
+ HOL_republic_classical_communism_DEF:0 "ネーデルラント社会主義共和国"
+ 
+#アフリカ
+#新大陸
+#太平洋
+
+##SSW
+#アジア
+ BRN_peace_abode_state:0 "平和の地ブルネイ国"
+ BRN_peace_abode_state_DEF:0 "平和の地ブルネイ国"
+ 
+#ヨーロッパ
+ ADR_co-principality:0 "アンドラ共同公国"
+ ADR_co-principality_DEF:0 "アンドラ共同公国"
+ 
+ SMR_most_serene_republic:0 "晴朗極まる共和国サンマリノ"
+ SMR_most_serene_republic_DEF:0 "晴朗極まる共和国サンマリノ"
+ SMR_most_serene_republic_progressive_communism:0 "晴朗極まる人民共和国サンマリノ"
+ SMR_most_serene_republic_progressive_communism_DEF:0 "晴朗極まる人民共和国サンマリノ"
+ SMR_most_serene_republic_classical_communism:0 "晴朗極まる人民共和国サンマリノ"
+ SMR_most_serene_republic_classical_communism_DEF:0 "晴朗極まる人民共和国サンマリノ"
+ 
+ TEU_order_state:0 "エルサレムのドイツ人の聖マリア病院兄弟団国"
+ TEU_order_state_DEF:0 "エルサレムのドイツ人の聖マリア病院兄弟団国"
+ 
+ VAC_city_state:0 "バチカン市国"
+ VAC_city_state_DEF:0 "バチカン市国"
+ 
+ VEC_most_serene_republic:0 "晴朗極まる共和国ヴェネツィア"
+ VEC_most_serene_republic_DEF:0 "晴朗極まる共和国ヴェネツィア"
+ 
+#アフリカ
+#新大陸
+#大洋州
